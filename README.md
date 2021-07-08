@@ -10,7 +10,7 @@ In this project, a convolutional neural network is trained to clone a driving be
 The CNN architecture used here is referenced from NVIDIA's ***End to End Learning for Self-Driving Cars paper***.   
 **Reference:** https://arxiv.org/pdf/1604.07316v1.pdf
 
-This repository contains follwoing five files: 
+This repository contains follwoing five files:
 * model.py (script to create and train the model)
 * drive.py (script to drive the car - feel free to modify this file)
 * model.h5 (a trained Keras model)
@@ -22,7 +22,7 @@ Environment
 I try to run on my locally end, but it is too many problem for version.
 I used the workpace on udacity.
 
-The Goal of the Project 
+The Goal of the Project
 ---
 The goal is to create and to validate of a CNN model that clones a driving behavior from a simulator.  
 Simulator allows to collect data in the format shown below:
@@ -117,9 +117,12 @@ Total params: 252,219
 Trainable params: 252,219
 Non-trainable params: 0
 ```
+### Result
+
+see the result gif
+
+[!image2](https://github.com/MarkRoy8888/CarND-Project-4-Behavioral-Cloning/blob/master/Behavior-image.gif)
 
 ### Suggestions
 Because I can't run on local end, so I can't improve my model freguently.
 I can get better model on local end.
-
-
