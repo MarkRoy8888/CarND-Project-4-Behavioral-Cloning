@@ -121,7 +121,7 @@ Non-trainable params: 0
 
 see the result gif
 
-[!image2](https://github.com/MarkRoy8888/CarND-Project-4-Behavioral-Cloning/blob/master/Behavior-image.gif)
+![image](https://github.com/MarkRoy8888/CarND-Project-4-Behavioral-Cloning/blob/master/Behavior-image.gif)
 
 ### Suggestions
 Because I can't run on local end, so I can't improve my model freguently.
