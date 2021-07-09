@@ -131,5 +131,5 @@ see the result gif
 
 ## Suggestions
 1.Environment-Because I can't run on local end, so I can't improve my model freguently. I can get better model on local end.<br/>
-2.Improve model- The model architecture is base on NVIDIA's. It has some space to improve.
-3.Data clear- some data maybe are bad(bad-control,wrong-control) which need  delete to improve model.
+2.Improve model- The model architecture is base on NVIDIA's. It has some space to improve.<br/>
+3.Data clear- some data maybe are bad(bad-control,wrong-control) which need  delete to improve model.<br/>
